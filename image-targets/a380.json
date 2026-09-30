@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 86,
+    "left": 0,
+    "width": 1024,
+    "height": 1365,
+    "isRotated": true,
+    "originalWidth": 1024,
+    "originalHeight": 1536
+  },
+  "imagePath": "image-targets/a380_luminance.jpg",
+  "metadata": null,
+  "name": "a380",
+  "resources": {
+    "originalImage": "a380_original.jpg",
+    "croppedImage": "a380_cropped.jpg",
+    "thumbnailImage": "a380_thumbnail.jpg",
+    "luminanceImage": "a380_luminance.jpg"
+  },
+  "created": 1790748666211,
+  "updated": 1790748878986
+}
